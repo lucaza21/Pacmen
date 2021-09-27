@@ -9,6 +9,9 @@ Here you will be able to create multiple pacman figures and make them bounce fro
 
 ## Usage: 
 It helps to understand how to use html adding elements into the DOM and giving them interactivity with the user using buttons.
+After download the repo, please open the index.html file. here you will find to buttons:
+1. Add PacMan: each click will add a new pacman in a random space of the screen
+2. Start Game : will make the Pacmen start to move through the screen. with each click they will start increasing their speed.
 
 ## Support:
 You can contact me by email: luis.carrasquilla.z@gmail.com
