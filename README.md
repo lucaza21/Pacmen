@@ -15,6 +15,12 @@ After download the repo, please open the index.html file. here you will find to 
 
 ## Support:
 You can contact me by email: luis.carrasquilla.z@gmail.com
+email: <luis.carrasquilla.z@gmail.com>
+
+Linkedin: **[Luis Carrasquilla](https://www.linkedin.com/in/luis-carrasquilla/)** 
+
+## Roadmap
+I'm planning to change randomly the color and the size of the pacman every it appears.
 
 ## License information:  
 This project has been made in the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN
