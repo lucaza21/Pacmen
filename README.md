@@ -14,9 +14,7 @@ After download the repo, please open the index.html file. here you will find to 
 2. Start Game : will make the Pacmen start to move through the screen. with each click they will start increasing their speed.
 
 ## Support:
-You can contact me by email: luis.carrasquilla.z@gmail.com
-email: <luis.carrasquilla.z@gmail.com>
-
+Email: <luis.carrasquilla.z@gmail.com>
 Linkedin: **[Luis Carrasquilla](https://www.linkedin.com/in/luis-carrasquilla/)** 
 
 ## Roadmap
